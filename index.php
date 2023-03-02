@@ -29,6 +29,12 @@
                     <div class="form-group mt-1">
                         <input type="number" name="phone" class="form-control" placeholder="Phone">
                     </div>
+                    <div class="mt-3">
+                        <button type="submit" class="btn btn-primary w-100">Cadastr-se agora!</button>
+                    </div>
+                    <p class="small mt-3">
+
+                    </p>
                 </form>
             </div>
         </div>
