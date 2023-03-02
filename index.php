@@ -20,7 +20,15 @@
         <div class="row">
             <div class="col-md-4 mx-auto">
                 <form action="" method="post">
-                    <div class="form-group"></div>
+                    <div class="form-group">
+                        <input type="text" name="nome" class="form-control" placeholder="Nome">
+                    </div>
+                    <div class="form-group mt-1">
+                        <input type="email" name="email" class="form-control" placeholder="Email">
+                    </div>
+                    <div class="form-group mt-1">
+                        <input type="number" name="phone" class="form-control" placeholder="Phone">
+                    </div>
                 </form>
             </div>
         </div>
